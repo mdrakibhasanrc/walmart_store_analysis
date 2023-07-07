@@ -31,5 +31,7 @@ Among the 45 Walmart stores analyzed, Store 20 emerged as the top performer in t
 ### Impact of Holidays on Sales:
 The analysis underscores the significant contribution of holiday weeks to overall revenue, showcasing the impact of seasonal festivities. Notably, Thanksgiving, the Super Bowl, and Labour Day stood out as the top-performing holidays in terms of generating sales. Surprisingly, Christmas showed relatively lower performance compared to other observed holidays, challenging the conventional notion of high consumer spending during the holiday season.
 
+![Alt text](Walmart Store Analysis)
+
 ### Conclusion:
 This business report provides a comprehensive analysis of a Walmart store's sales performance and seasonal trends. By examining sales dynamics throughout the year, the impact of holidays, and individual store performance, valuable insights have been gained. The report highlights the significance of major shopping periods, identifies successful and challenging years, and underscores the importance of effective sales strategies to thrive in a competitive retail environment. The findings of this analysis can assist stakeholders in making informed decisions to optimize sales and maximize profitability.
